@@ -15,13 +15,37 @@
 
 > * ####  接口的声明
 >
-> > 分标题内容
+> > 修饰词 interface 接口名称 [extends 其他的接口名] {
+> >   		//抽象方法
+>   }
 >
-> * #### 分标题2
+>   ```  java
+>   public interface InterfaceName {
+>       public void run();
+>   }
+>   
+>   ```
 >
-> > 分标题内容
-
-
+>   
+>
+>
+> ---
+>
+> * #### 接口特性
+>
+> > * 接口中每一个方法也是隐式抽象的,接口中的方法会被隐式的指定为 **public abstract** （其他修饰符都会报错）
+> >* 接口中可以含有变量，但是接口中的变量会被隐式的指定为 **public static final** 变量（并且只能是 public）
+> > * 接口中的方法是不能在接口中实现的，只能由实现接口的类来实现接口中的方法。
+> >
+>
+> ---
+>
+> * 接口的继承与实现
+>
+> > a
+> >
+> 
+> **<font color=red>接口的存在也是为了弥补类无法多继承的缺点</font>**
 
 <font color=red></font>
 <font color=yellow></font>
