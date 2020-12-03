@@ -59,7 +59,5 @@
 >
 > 接口在实际中更多的作用是**制定标准**的。
 > **<font color=green>接口的存在也是为了弥补类无法多继承的缺点。</font>**
-
-<font color=red></font>
-<font color=yellow></font>
-<font color=green></font>
+>
+> 
