@@ -12,8 +12,8 @@
 
 > * ####  编译过程 
 >
-> > Java编程语言          --编写源代码-->  
-> > Java前端编译器       --编译为**字节码**-->  
+> > Java编程语言          --编写源代码 -->  
+> > Java前端编译器       --编译为**字节码** -->  
 > > Java虚拟机（JVM） --解释/编译为机器指令运行  
 > >
 > > ![](https://raw.githubusercontent.com/TheBladeOfSin/Image/Learning-Library/Img/JavaCompilationProcess.png)

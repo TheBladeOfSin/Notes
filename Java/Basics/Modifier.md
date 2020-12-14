@@ -21,7 +21,17 @@
 >
 > * #### 非访问修饰符
 >
-> > 
+> > #### static：
+> >
+> > #### final：
+> >
+> > #### abstract（抽象）：
+> >
+> > #### synchronized：
+> >
+> > #### transient：
+> >
+> > #### volatile：
 
 
 

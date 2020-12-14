@@ -6,7 +6,7 @@
 
 ### 概述  
 
-> util包中最重要的API组合，也是java中<font color=yellow>最大的一种数据存储容器</font>。
+> util包中最重要的API组合，也是Java中<font color=yellow>最大的一种数据存储容器</font>。
 
 ### 体系结构：
 
@@ -37,8 +37,8 @@
 > >    //常用方法
 > >    list.add("data1");	//添加数据，依次存入数据
 > >    list.add("data2");
-> >    list.add(2,"data3");
-> >    list.get(0);		//获取数据，通过索引
+> >    list.get(0);		//通过索引获取数据
+> >    
 > >    ```
 > >
 > >    
